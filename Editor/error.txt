@@ -1,0 +1,4 @@
+Unable to write startup sequence - is WinUAE already running?
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+ProjectManager:ShortcutCompile()
+Manager:Update()
